@@ -3,7 +3,7 @@
 # *************************************************************************
 # DESCRICAO: Script para monitoramento da Status Page do fornecedor ZENVIA
 # VERSAO: 1.3
-# AUTOR: Cristian Souza - cristian.pereira@portoseguro.com.br             
+# AUTOR: Cristian Souza     
 # DATA: 03/02/2025
 # *************************************************************************
 
